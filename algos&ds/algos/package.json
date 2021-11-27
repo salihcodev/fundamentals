@@ -1,0 +1,14 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "Learning big O notation.",
+  "main": "main.js",
+  "scripts": {
+    "start": "yarn format && nodemon ./main.js",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "@salihcodev",
+  "license": "ISC",
+  "dependencies": {}
+}
